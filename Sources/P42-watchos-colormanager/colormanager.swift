@@ -2,13 +2,14 @@
 // https://docs.swift.org/swift-book
 // The Swift Programming Language
 // https://docs.swift.org/swift-book
+
+
+
 import SwiftUI
 
-
-@available(iOS 13.0, *)
+@available(iOS 17.0, *)
 public struct ColorTheme {
 
-    @available(iOS 13.0, *)
     public struct Variant {
 
         public let navigationBG: Color
